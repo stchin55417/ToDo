@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263458734385",
+    "project_id": "todo-sqcpvl",
+    "storage_bucket": "todo-sqcpvl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263458734385:android:ac04dd23b10c2e2e9c3010",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNJMHvssxzwBzMW2BjCBaDQ30C6OgYdfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
